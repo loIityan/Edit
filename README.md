@@ -1,6 +1,4 @@
 # Edit
-```bash
-    git remote add origin https://github.com/lolityan/edit.gitgit pull origin masterimport io
 import os
 import textwrap
 from PIL import Image, ImageDraw, ImageFont, UnidentifiedImageError
